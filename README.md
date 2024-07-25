@@ -1,0 +1,1 @@
+This project measures a voltage range of 0 to 100V DC using a PIC16F877A microcontroller. The voltage is scaled down to 0-5V using a voltage divider, read by the ADC, and displayed on a CLCD. The code is written in Embedded C using the XC8 compiler with MPLAB IDE and simulated in Proteus.
